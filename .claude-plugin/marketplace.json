@@ -1,0 +1,18 @@
+{
+  "name": "md2pdf",
+  "description": "Free markdown to PDF from Claude Code. No account, no API key, nothing stored.",
+  "owner": {
+    "name": "md2pdf",
+    "email": "support@md2sign.com"
+  },
+  "plugins": [
+    {
+      "name": "md2pdf",
+      "source": "./plugins/md2pdf",
+      "description": "Turn markdown into clean A4 PDFs with md2pdf.free's free MCP server and API, with signature lines that can be sent for e-signature with md2sign.",
+      "category": "productivity",
+      "keywords": ["pdf", "markdown", "documents", "convert", "contracts", "mcp"],
+      "homepage": "https://md2pdf.free"
+    }
+  ]
+}

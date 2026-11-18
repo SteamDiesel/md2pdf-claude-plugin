@@ -1,0 +1,15 @@
+{
+  "name": "md2pdf",
+  "version": "1.0.0",
+  "description": "Turn markdown into clean A4 PDFs for free with md2pdf.free. No account, no API key, nothing stored.",
+  "author": {
+    "name": "md2pdf",
+    "email": "support@md2sign.com",
+    "url": "https://md2pdf.free"
+  },
+  "homepage": "https://md2pdf.free",
+  "repository": "https://github.com/SteamDiesel/md2pdf-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://md2pdf.free/privacy",
+  "keywords": ["pdf", "markdown", "documents", "mcp"]
+}

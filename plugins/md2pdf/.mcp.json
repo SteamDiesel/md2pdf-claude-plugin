@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "md2pdf": {
+      "type": "http",
+      "url": "https://md2pdf.free/mcp"
+    }
+  }
+}
